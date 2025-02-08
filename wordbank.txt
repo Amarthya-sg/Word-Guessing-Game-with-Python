@@ -1,0 +1,142 @@
+algorithm
+API
+array
+backend
+binary
+bit
+boolean
+bug
+byte
+cache
+class
+CLI
+cloud
+code
+compiler
+constant
+CSS
+data structure
+database
+debugging
+deployment
+developer
+dictionary
+domain
+dynamic
+encapsulation
+encryption
+environment
+event
+event loop
+exception
+framework
+frontend
+function
+garbage collection
+git
+hash
+HTML
+HTTP
+IDE
+inheritance
+instance
+integer
+interface
+IP address
+iteration
+JavaScript
+JSON
+library
+Linux
+loop
+machine learning
+method
+middleware
+module
+network
+node.js
+null
+object
+OOP
+open source
+operator
+ORM
+overflow
+parameter
+parse
+patch
+polymorphism
+port
+procedure
+program
+protocol
+Python
+query
+queue
+recursion
+regex
+repository
+REST
+runtime
+script
+SDK
+server
+singleton
+software
+source code
+SQL
+stack
+statement
+string
+data type
+syntax
+testing
+thread
+token
+tree
+UI
+variable
+version control
+virtual machine
+web development
+web framework
+XML
+YAML
+Ada
+Bash
+C
+C#
+C++
+Clojure
+COBOL
+Dart
+Elixir
+Erlang
+Fortran
+F#
+Go
+Groovy
+Haskell
+Java
+Julia
+Kotlin
+Lisp
+Lua
+MATLAB
+Objective-C
+Pascal
+Perl
+PHP
+Prolog
+R
+Ruby
+Rust
+Scala
+Scheme
+Shell
+Smalltalk
+Swift
+TypeScript
+VHDL
+Visual Basic
+
